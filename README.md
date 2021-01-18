@@ -8,6 +8,6 @@ Technologies:
 
 ## Deploy
 
-[Deploy](https://eager-roentgen-342879.netlify.app/)
+[Here](https://eloquent-aryabhata-94e225.netlify.app/)
 
 Aprendiendo [Codigo con Juan](https://codigoconjuan.com/)
