@@ -2,7 +2,7 @@
 study project - modern js
 
 
-Tecnologías:
+Technologies:
 * jquery
 * ES6
 
