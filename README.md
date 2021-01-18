@@ -2,9 +2,9 @@
 study project - modern js
 
 
-Utilizando:
-*jquery
-*ES6
+Tecnologías:
+* jquery
+* ES6
 
 ## Deploy
 
